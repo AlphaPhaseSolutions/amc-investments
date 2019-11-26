@@ -12,8 +12,8 @@ header:
     - label: Investors
       url: https://investors.amcinvestments.com/login
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/AMC.webp"
+  tagline: Developed by AlphaPhase.io
   has_nav: true
   nav_title: Company
   has_social: true
@@ -21,10 +21,10 @@ footer:
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
+  content: "&copy; Alpha Phase. All rights reserved."
   links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
+  - text: Developed By Alpha Phase
+    url: https://www.alphaphase.io/
     new_window: true
 sass:
   indentWidth: 4
