@@ -4,7 +4,7 @@ baseurl: "/"
 permalink: "/:title/"
 palette: blue
 header:
-  title: Azimuth
+  title: Amc Investments
   logo_img: "/images/AMC.webp"
   has_nav: true
   menu:
