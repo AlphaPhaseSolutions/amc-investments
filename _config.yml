@@ -13,7 +13,7 @@ header:
       url: https://investors.amcinvestments.com/login
 footer:
   logo_img: "/images/AMC.webp"
-  tagline: Developed by AlphaPhase.io
+  tagline: Tagline Goes Here
   has_nav: true
   nav_title: Company
   has_social: true
