@@ -97,6 +97,13 @@ sections:
   title: Latest Posts
   bg: gray
   subtitle: ''
+- template: section_contact
+  bg: gray
+  type: section_contact
+  section_id: Contact Us
+  title: Contact Us
+  subtitle: ''
+  content: ''
 layout: landing
 menu:
   main:
