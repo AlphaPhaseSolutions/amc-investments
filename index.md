@@ -65,13 +65,12 @@ sections:
     actions: []
 - type: section_reviews
   template: section_reviews
-  section_id: reviews
-  title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  section_id: OUR TEAM
+  title: OUR TEAM
+  subtitle: ''
   bg: white
   reviews:
-  - author: John Doe
+  - author: JAMES HOPPER - PRESIDENT
     avatar: images/review1.jpg
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
