@@ -69,7 +69,7 @@ sections:
     actions: []
   - title: YIELD TARGETS
     content: High Single Digit Cash-on-Cash, Overall Returns of 15% or Greater
-    image: ''
+    image: "/images/Screen Shot 2019-12-05 at 3.02.53 PM.png"
     actions: []
 - type: section_reviews
   template: section_reviews
