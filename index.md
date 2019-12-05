@@ -49,23 +49,23 @@ sections:
       url: "/features"
   - title: EQUITY INVESTMENT
     content: "$1 Million to $7 Million"
-    image: images/feature2.png
+    image: "/images/Screen Shot 2019-12-05 at 3.02.41 PM.png"
     actions:
     - label: Learn More
       url: "/features"
   - title: ASSET TYPE
     content: Multi-Family, Active Senior Housing, Self-Storage, Mixed Use
-    image: images/feature3.png
+    image: "/images/Screen Shot 2019-12-05 at 3.02.44 PM.png"
     actions:
     - label: Learn More
       url: "/features"
   - title: TARGETED STRATEGY
     content: Core Plus, Value Add, Opportunistic
-    image: ''
+    image: "/images/Screen Shot 2019-12-05 at 3.02.47 PM.png"
     actions: []
   - title: LOCATION
     content: MSA’s with a Population of 1 Million or More
-    image: ''
+    image: "/images/Screen Shot 2019-12-05 at 3.02.50 PM.png"
     actions: []
   - title: YIELD TARGETS
     content: High Single Digit Cash-on-Cash, Overall Returns of 15% or Greater
