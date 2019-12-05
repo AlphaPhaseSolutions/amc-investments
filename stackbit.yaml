@@ -579,6 +579,25 @@ models:
             - type: string
               name: content
               label: Content
+  section_posts:
+    type: object
+    label: Posts List
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: enum
+        name: bg
+        label: Background
+        description: The background of the section.
+        options:
+          - gray
+          - white
+        default: gray
+        
   section_contact:
     type: object
     label: Contact Section
