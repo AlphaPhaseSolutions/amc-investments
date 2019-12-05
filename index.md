@@ -95,7 +95,7 @@ sections:
   template: section_cta
   section_id: More info
   title: Learn More!
-  subtitle: ''
+  subtitle: Interested in becoming an investor? Please click here for more information.
   actions:
   - label: Learn More
     url: "/learn-more"
