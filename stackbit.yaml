@@ -251,6 +251,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
+            - section_team
       - type: page_menus
         name: menus
         label: Landing Page Menus
