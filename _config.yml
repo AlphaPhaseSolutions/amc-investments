@@ -13,12 +13,12 @@ header:
       url: https://investors.amcinvestments.com/login
 footer:
   logo_img: "/images/AMC.webp"
-  tagline: Tagline Goes Here
+  tagline: AMC Investments
   has_nav: true
-  nav_title: Company
-  has_social: true
+  nav_title: ''
+  has_social: false
   social_title: Community
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Alpha Phase. All rights reserved."
