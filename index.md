@@ -1,6 +1,14 @@
 ---
 title: Home
 sections:
+- template: section_content
+  bg: gray
+  type: section_content
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 - type: section_hero
   template: section_hero
   section_id: ABOUT US
@@ -35,7 +43,7 @@ sections:
   featureslist:
   - title: TRANSACTION SIZE
     content: "$5 Million to $40 Million"
-    image: images/feature1.png
+    image: "/images/Screen Shot 2019-12-05 at 3.02.38 PM.png"
     actions:
     - label: Learn More
       url: "/features"
