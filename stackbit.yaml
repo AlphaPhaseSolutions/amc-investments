@@ -251,7 +251,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
-            - section_team
+            <!-- - section_team -->
       - type: page_menus
         name: menus
         label: Landing Page Menus
@@ -579,7 +579,7 @@ models:
             - type: string
               name: content
               label: Content
-  section_posts:
+   <!-- - section_posts:
     type: object
     label: Posts List
     extends:
@@ -596,7 +596,7 @@ models:
         options:
           - gray
           - white
-        default: gray
+        default: gray --> 
         
   section_contact:
     type: object
