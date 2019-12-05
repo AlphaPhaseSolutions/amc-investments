@@ -40,9 +40,8 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: ASSET TYPE
+    content: Multi-Family, Active Senior Housing, Self-Storage, Mixed Use
     image: images/feature3.png
     actions:
     - label: Learn More
