@@ -51,7 +51,7 @@ sections:
     image: ''
     actions: []
   - title: LOCATION
-    content: MSA’s with Population of 1 Million or More
+    content: MSA’s with a Population of 1 Million or More
     image: ''
     actions: []
 - type: section_reviews
