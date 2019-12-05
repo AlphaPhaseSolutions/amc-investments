@@ -13,19 +13,19 @@ sections:
   actions:
   - label: Learn More
     url: "/about-us"
+- template: section_content
+  bg: gray
+  type: section_content
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 - type: section_features
   template: section_features
-  section_id: OUR STRATEGY
-  title: OUR STRATEGY
-  subtitle: 'AMC partners with top sponsors to identify investments in select markets
-    and product spaces. In other words, AMC defines the geographic locations and product
-    types that it wants to invest in, and then finds the best partners to joint venture
-    with in those market spaces.     AMC targets transactions that are too small for
-    institutional investors but above the point at which high net worth individuals
-    can operate with AMC’s level of efficiency. In doing so, AMC is able to provide
-    sponsors with ready access to capital while also providing AMC investors access
-    to larger transactions that they otherwise could never invest in.     AMC has
-    never failed to close on a transaction that underwrote as it was originally presented. '
+  section_id: JOINT VENTURE PROGRAM
+  title: JOINT VENTURE PROGRAM
+  subtitle: ''
   bg: gray
   featureslist:
   - title: TRANSACTION SIZE
