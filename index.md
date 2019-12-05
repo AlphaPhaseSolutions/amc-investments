@@ -54,6 +54,10 @@ sections:
     content: MSA’s with a Population of 1 Million or More
     image: ''
     actions: []
+  - title: YIELD TARGETS
+    content: High Single Digit Cash-on-Cash, Overall Returns of 15% or Greater
+    image: ''
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
