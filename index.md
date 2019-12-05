@@ -15,22 +15,27 @@ sections:
     url: "/about-us"
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: OUR STRATEGY
+  title: OUR STRATEGY
+  subtitle: 'AMC partners with top sponsors to identify investments in select markets
+    and product spaces. In other words, AMC defines the geographic locations and product
+    types that it wants to invest in, and then finds the best partners to joint venture
+    with in those market spaces.     AMC targets transactions that are too small for
+    institutional investors but above the point at which high net worth individuals
+    can operate with AMC’s level of efficiency. In doing so, AMC is able to provide
+    sponsors with ready access to capital while also providing AMC investors access
+    to larger transactions that they otherwise could never invest in.     AMC has
+    never failed to close on a transaction that underwrote as it was originally presented. '
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: TRANSACTION SIZE
+    content: "$5 Million to $40 Million"
     image: images/feature1.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: EQUITY INVESTMENT
+    content: "$1 Million to $7 Million"
     image: images/feature2.png
     actions:
     - label: Learn More
