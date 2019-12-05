@@ -12,7 +12,7 @@ sections:
   image: "/images/Screen Shot 2019-12-05 at 2.40.52 PM.png"
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/about-us"
 - type: section_features
   template: section_features
   section_id: features
