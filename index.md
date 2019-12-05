@@ -3,11 +3,13 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  section_id: hero
-  title: This Is A Big Hero Headline
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
-  image: images/hero.png
+  section_id: ABOUT US
+  title: ABOUT US
+  content: |-
+    Founded in 1983, AMC Investments (“AMC”) is a real estate investment company that is constantly refining its investment strategies to fit today’s ever-changing population demographics and economic environment. The company’s focus is on capital growth, income, and mitigation of risk which it balances through geographic and investment diversification including various product types in select markets throughout the United States.
+
+    AMC serves more than 1,000 active accredited investors, including AMC’s President and CEO, Jim Hopper, who invests as a limited partner or member alongside AMC’s investors in every AMC investment.
+  image: "/images/Screen Shot 2019-12-05 at 2.40.52 PM.png"
   actions:
   - label: Learn More
     url: "/features"
@@ -74,6 +76,7 @@ sections:
   section_id: recent-posts
   title: Latest Posts
   bg: gray
+  subtitle: ''
 layout: landing
 menu:
   main:
