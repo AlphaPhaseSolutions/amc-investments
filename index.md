@@ -50,6 +50,10 @@ sections:
     content: Core Plus, Value Add, Opportunistic
     image: ''
     actions: []
+  - title: LOCATION
+    content: MSA’s with Population of 1 Million or More
+    image: ''
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
