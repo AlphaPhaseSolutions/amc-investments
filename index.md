@@ -46,6 +46,10 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
+  - title: TARGETED STRATEGY
+    content: Core Plus, Value Add, Opportunistic
+    image: ''
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
